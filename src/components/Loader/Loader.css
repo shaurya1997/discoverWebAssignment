@@ -1,0 +1,17 @@
+
+.hourglass {
+  display: block;
+  fill: rgb(43 222 242);
+  margin: 3em auto;
+  width: 2.5rem;
+  height:2.5rem;
+  border-radius: 50%;
+  animation: hourglass 1s linear infinite;
+  
+}
+
+@keyframes hourglass {
+  0% {
+    transform: rotate(-360deg);
+  }
+}

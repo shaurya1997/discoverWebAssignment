@@ -1,0 +1,9 @@
+
+.nav-item {
+  font-size: 0.75rem;
+  padding: 8px 24px;
+}
+.active {
+    background-color: rgb(43, 46, 59);
+    padding: 8px 24px;
+}

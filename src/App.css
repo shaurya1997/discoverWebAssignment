@@ -1,0 +1,65 @@
+body {
+  color: #FFFFFF;
+  margin: 0;
+  font-weight: 400;
+  background-color: #0B0E16;
+  font-size: 0.875rem;
+  font-family: "Inter", "Roboto", "Noto Sans SC Sliced", "Helvetica", "Arial", sans-serif;
+}
+.middle {
+  display: flex;
+  justify-content: center;
+  gap:0.5rem;
+  margin-top: 40px;
+}
+.MuiCircularProgress-root {
+  color: rgb(39 222 241) !important;
+}
+.MuiStepIcon-root.Mui-completed {
+  fill:rgb(43 222 242) !important
+}
+.MuiStepConnector-root{
+    position: absolute;
+    top: 12px;
+    left: calc(-50% + 10px) !important;
+    right: calc(50% + 10px) !important;
+} 
+.MuiStepConnector-line {
+  border-color:rgb(43 222 242) !important
+}
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+  margin-top: 0.5rem !important;
+  font-size: 0.7rem;
+  color:rgb(171 172 164) !important
+}
+.MuiTab-root.Mui-selected {
+  color:rgb(43 222 242) !important
+}
+.MuiTabs-indicator  {
+  background-color:rgb(43 222 242) !important
+}
+.MuiCheckbox-root.Mui-checked {
+  color:rgb(43 222 242) !important
+}
+.MuiMenu-paper {
+  background-color: rgb(73 77 88) !important;
+  color:"white" !important;
+}
+.MuiButtonBase-root-MuiMenuItem-root  {
+  color:"white" !important
+}
+.MuiSvgIcon-root-MuiSelect-icon {
+  color:"white" !important
+}
+li {
+  color: white !important;
+}
+.MuiTypography-root {
+font-size: 0.85rem !important;
+}
+.MuiTablePagination-actions svg {
+  fill: rgb(191 179 179);
+}
+.MuiSelect-icon {
+  fill:white !important
+}

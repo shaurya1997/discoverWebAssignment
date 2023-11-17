@@ -1,0 +1,30 @@
+
+.ftx-img {
+    height: 2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.header {
+    width: 100%;
+    display: flex;
+    padding: 1rem;
+    border-bottom: 1px solid rgb(43, 46, 59);
+    justify-content: space-between;
+}
+.right-item {
+  display: flex;
+  gap:1rem;
+  align-items: center;
+  margin-right: 2rem;
+  color: white;
+}
+.language-icons {
+  height: 1.5rem;
+  width: 1.3rem;
+  fill: white;
+  margin-right: 0.25rem;
+}
+.nav-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+}
